@@ -98,12 +98,12 @@ export default function Footer() {
       <div className="border-t border-white/10 px-4 py-5 text-center text-xs text-stone-400">
         <span>© {new Date().getFullYear()} Gift Man.</span>{" "}
         <Link
-          href="https://voltanyc.org/"
+          href="https://www.novusnyc.org/"
           target="_blank"
           rel="noreferrer"
-          className="font-bold text-sage-100 transition hover:text-white"
+          className="font-bold text-[#F6B78D] transition hover:text-[#F6B78D]"
         >
-          Made by Volta
+          Made by Novus
         </Link>
       </div>
     </footer>
