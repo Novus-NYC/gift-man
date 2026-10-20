@@ -13,7 +13,7 @@
 ### Task 1: Implement balanced padding fix in HeroSection component
 
 **Files:**
-- Modify: `/Users/henryzhao/Desktop/Volta/gift-man/src/components/HeroSection.tsx:40-50`
+- Modify: `/Users/henryzhao/Desktop/Novus/gift-man/src/components/HeroSection.tsx:40-50`
 
 - [ ] **Step 1: Identify the exact lines to modify**
 

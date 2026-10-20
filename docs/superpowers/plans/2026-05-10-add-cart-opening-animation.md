@@ -13,7 +13,7 @@
 ### Task 1: Add opening animation delay to CartDrawer
 
 **Files:**
-- Modify: `/Users/henryzhao/Desktop/Volta/gift-man/src/components/CartProvider.tsx:163-180`
+- Modify: `/Users/henryzhao/Desktop/Novus/gift-man/src/components/CartProvider.tsx:163-180`
 
 - [ ] **Step 1: Identify the current useEffect logic**
 
